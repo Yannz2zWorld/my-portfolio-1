@@ -228,7 +228,7 @@
       ${input('website', 'Website', { type: 'url', ph: 'https://…' })}`, o('profil')));
 
     html.push(card('media', 'Banner & foto profil', null, `
-      <p class="hint">Tempel link foto, GIF, video (.mp4/.webm), atau YouTube. Bisa juga file di website ini, misalnya /views/assets/portfolio/banner.mp4.</p>
+      <p class="hint">Tempel link foto, GIF, video (.mp4/.webm), atau YouTube. Bisa juga file di repo ini: taruh di folder media/, lalu tulis /media/banner.mp4.</p>
       <div style="--r:${esc(S.bannerRatio)}">${thumb(S.banner, 'wide')}</div>
       ${input('banner', 'Link banner', { type: 'url', ph: 'https://…/banner.jpg', media: true })}
       <label class="f"><span>Rasio banner</span><select data-k="bannerRatio">${ratios.map(r => `<option ${r === S.bannerRatio ? 'selected' : ''}>${r}</option>`).join('')}</select></label>
