@@ -1,0 +1,13 @@
+{
+  "name": "my-portfolio-1",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Portfolio pribadi bergaya profil sosial media, dengan Diriku Panel untuk mengatur isinya.",
+  "scripts": {
+    "dev": "node scripts/dev.js",
+    "test": "node --test tests/*.test.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}

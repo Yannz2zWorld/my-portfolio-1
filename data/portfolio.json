@@ -1,0 +1,81 @@
+{
+  "name": "Yannz",
+  "username": "yannz2zworld",
+  "verified": true,
+  "bio": "Web developer & content creator.\nMembangun website, API, dan antarmuka yang rapi.",
+  "location": "Indonesia",
+  "website": "https://github.com/Yannz2zWorld",
+  "joined": "Sejak 2024",
+  "banner": "",
+  "bannerRatio": "16 / 9",
+  "avatar": "",
+  "stats": [
+    {
+      "value": "24",
+      "label": "Proyek"
+    },
+    {
+      "value": "3+",
+      "label": "Tahun"
+    },
+    {
+      "value": "1.2K",
+      "label": "Pengikut"
+    }
+  ],
+  "storyStyle": "overlay",
+  "stories": [],
+  "highlights": [],
+  "projects": [
+    {
+      "title": "REST API Platform",
+      "desc": "Platform API dengan dashboard, billing, dan manajemen API key.",
+      "media": "",
+      "link": "",
+      "tags": [
+        "Node.js",
+        "Express",
+        "PostgreSQL"
+      ]
+    },
+    {
+      "title": "Landing Page UMKM",
+      "desc": "Landing page responsif untuk usaha kecil.",
+      "media": "",
+      "link": "",
+      "tags": [
+        "HTML",
+        "CSS"
+      ]
+    },
+    {
+      "title": "3D Scene",
+      "desc": "Scene 3D interaktif berbasis three.js.",
+      "media": "",
+      "link": "",
+      "tags": [
+        "three.js"
+      ]
+    }
+  ],
+  "skills": [
+    "JavaScript",
+    "Node.js",
+    "Express",
+    "HTML & CSS",
+    "PostgreSQL",
+    "UI/UX"
+  ],
+  "experience": [
+    {
+      "when": "2025 — Sekarang",
+      "what": "Full-stack Developer",
+      "where": "Freelance"
+    }
+  ],
+  "contact": {
+    "email": "",
+    "phone": ""
+  },
+  "socials": []
+}
